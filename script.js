@@ -13,3 +13,5 @@ function rollDice() {
 
 // Attach event listener to the button
 document.getElementById("rollBtn").addEventListener("click", rollDice);
+//*
+//!
